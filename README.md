@@ -7,6 +7,8 @@ This is a UI redesign of the Instagram login page.
 To make the login screen feel more expressive, branded, and aligned with Instagram's entertainment-focused identity.
 
 ## images-instagram login redesign.png
+![Instagram Login Redesign](images-instagram%20login%20redesign.png)
+
 [images-instagram-login-redesign.png](https://github.com/MahelaquaKhanum771/Instagram-login-redesign/blob/5bac04b9a541ad874d1979360efb311cbc9265fb/images-instagram%20login%20redesign.png)
 
 ## Design Decisions
