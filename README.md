@@ -6,9 +6,8 @@ This is a UI redesign of the Instagram login page.
 ## Goal
 To make the login screen feel more expressive, branded, and aligned with Instagram's entertainment-focused identity.
 
-## images-instagram login redesign.png
+## Design Preview
 ![Instagram Login Redesign](images-instagram%20login%20redesign.png)
-
 [images-instagram-login-redesign.png](https://github.com/MahelaquaKhanum771/Instagram-login-redesign/blob/5bac04b9a541ad874d1979360efb311cbc9265fb/images-instagram%20login%20redesign.png)
 
 ## Design Decisions
@@ -19,3 +18,9 @@ To make the login screen feel more expressive, branded, and aligned with Instagr
 
 ## Outcome
 The redesign creates a warmer, more playful first impression while keeping the interface simple and familiar.
+
+## What I Learned
+- Visual hierarchy strongly affects how quickly users understand the main action
+- Color can change the emotional tone of a product significantly
+- Small spacing and shadow decisions make a design feel more polished
+- Brand personality should be reflected in both color and component styling
